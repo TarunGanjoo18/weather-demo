@@ -1,0 +1,11 @@
+.weather-card {
+    margin: auto;
+    padding: 20px;
+    background-color: transparent;
+}
+
+h2,
+p {
+    padding: 10px;
+    background-color: transparent;
+}
